@@ -4,6 +4,13 @@ A production-ready Machine Learning project that predicts median house values in
 
 ---
 
+## Quick Links
+
+Live Demo: [https://california-housing-regression-3.onrender.com](https://california-housing-regression-3.onrender.com)
+Source Code: [https://github.com/abhi1036/California-Housing-Regression](https://github.com/abhi1036/California-Housing-Regression)
+
+---
+
 ## Project Overview
 
 This application predicts the **median house value** for a California district based on demographic and housing-related features.
